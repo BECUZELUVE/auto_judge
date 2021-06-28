@@ -4,12 +4,10 @@
 @Project -> File   ：003auto_judge -> handle_input.py
 @IDE    ：PyCharm
 @Author ：Icey
-@Date   ：2021/6/24 22:06
 @Desc   ：
 '''
 
 from Common.handle_config import conf
-
 
 def judge_dict(section,n):
     '''

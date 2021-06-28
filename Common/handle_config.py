@@ -4,7 +4,6 @@
 @Project -> File   ：003auto_judge -> handle_config.py
 @IDE    ：PyCharm
 @Author ：Icey
-@Date   ：2021/6/24 22:06
 @Desc   ：
 '''
 from configparser import ConfigParser
